@@ -1,0 +1,4 @@
+firstName,lastName,nameType,phoneNumber,phoneUsageType,emailAddress,accessDate,accessTime,mostRecentHireDate,addressLine1Text,addressType,cityName,countryCode,postalCode,stateCode,mostRecentPrimaryJobFlag,workerStatus,workerType,jobProfileIdentifier,functionalManagerWorkerIdentifier,companyOrganizationIdentifier,workerIdentifier
+Joe,coo,Primary,17664922983,Home,xxx@x.com,2014-09-01,00:00:00.000000+02:00,2014-09-01,Im Geeren,Home,xxx,DEU,12345,HE,True,Active,A,R00800VX,8319680,0930,1000201
+Joe,coo,Primary,15165846352,HomeNonPrimary,joe.coo.@y.com,1998-02-01,00:00:00.000000+01:00,1998-02-01,2  radsss Adenauer,Busn,Luxembourg,LUX,L-1132,,True,Active,A,R00054AVP,8464615,0814,1200033
+bob,doe,Preferred,6506 985359,HomeNonPrimary,bob.doe@x.com,2000-03-01,00:00:00.000000+01:00,2000-03-01,fnkejfnkjf. 3,Home,gardm,DEU,54856,,True,Active,A,R00243NCT,1200542,0814,1200068

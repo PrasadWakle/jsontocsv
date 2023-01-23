@@ -1,0 +1,206 @@
+{
+  "workerDataResponse": {
+    "asOfDate": "2022-11-15",
+    "workers": [
+      {
+        "addressDetails": [
+          {
+            "addressLine1Text": "Im Geeren",
+            "addressType": "Home",
+            "cityName": "xxx",
+            "countryCode": "DEU",
+            "postalCode": "12345",
+            "stateCode": "HE"
+          },
+          {
+            "addressLine1Text": "x-xxx-Str.31-37/FEP",
+            "addressType": "Busn",
+            "cityName": "xxx",
+            "countryCode": "DEU",
+            "postalCode": "65936",
+            "stateCode": "HE"
+          }
+        ],
+        "emailContactDetails": [
+          {
+            "emailAddress": "xxx@x.com"
+          }
+        ],
+        "employmentSummary": {
+          "createAccessDate": "2014-09-01",
+          "createAccessTime": "00:00:00.000000+02:00",
+          "mostRecentHireDate": "2014-09-01"
+        },
+        "jobDetails": [
+          {
+            "employmentJobProfileDetails": {
+              "jobProfileIdentifier": "R00800VX"
+            },
+            "jobGovernanceRoleDetails": {
+              "functionalManagerWorkerIdentifier": "8319680"
+            },
+            "mostRecentPrimaryJobFlag": true,
+            "organizationDetails": {
+              "companyOrganizationIdentifier": "0930"
+            },
+            "workerStatus": "Active",
+            "workerType": "A"
+          }
+        ],
+        "nameDetails": [
+          {
+            "firstName": "Joe",
+            "lastName": "coo",
+            "nameType": "Primary"
+          },
+          {
+            "firstName": "Joe",
+            "lastName": "coo",
+            "nameType": "Preferred"
+          }
+        ],
+        "phoneContactDetails": [
+          {
+            "phoneNumber": "17664922983",
+            "phoneUsageType": "Home"
+          }
+        ],
+        "workerIdentifier": "1000201"
+      },
+      {
+        "addressDetails": [
+          {
+            "addressLine1Text": "2  radsss Adenauer",
+            "addressType": "Busn",
+            "cityName": "Luxembourg",
+            "countryCode": "LUX",
+            "postalCode": "L-1132"
+          },
+          {
+            "addressLine1Text": "bgfds 70",
+            "addressType": "Home",
+            "cityName": "frew",
+            "countryCode": "DEU",
+            "postalCode": "55495"
+          }
+        ],
+        "emailContactDetails": [
+          {
+            "emailAddress": "joe.coo.@y.com"
+          }
+        ],
+        "employmentSummary": {
+          "createAccessDate": "1998-02-01",
+          "createAccessTime": "00:00:00.000000+01:00",
+          "mostRecentHireDate": "1998-02-01"
+        },
+        "jobDetails": [
+          {
+            "employmentJobProfileDetails": {
+              "jobProfileIdentifier": "R00054AVP"
+            },
+            "jobGovernanceRoleDetails": {
+              "functionalManagerWorkerIdentifier": "8464615"
+            },
+            "mostRecentPrimaryJobFlag": true,
+            "organizationDetails": {
+              "companyOrganizationIdentifier": "0814"
+            },
+            "workerStatus": "Active",
+            "workerType": "A"
+          }
+        ],
+        "nameDetails": [
+          {
+            "firstName": "Joe",
+            "lastName": "coo",
+            "nameType": "Primary"
+          },
+          {
+            "firstName": "joe",
+            "lastName": "coo",
+            "nameType": "Preferred"
+          }
+        ],
+        "phoneContactDetails": [
+          {
+            "phoneNumber": "15165846352",
+            "phoneUsageType": "HomeNonPrimary"
+          },
+          {
+            "phoneNumber": "65135787",
+            "phoneUsageType": "Home"
+          }
+        ],
+        "workerIdentifier": "1200033"
+      },
+      {
+        "addressDetails": [
+          {
+            "addressLine1Text": "fnkejfnkjf. 3",
+            "addressType": "Home",
+            "cityName": "gardm",
+            "countryCode": "DEU",
+            "postalCode": "54856"
+          },
+          {
+            "addressLine1Text": "2 edfhieudh Adenauer",
+            "addressType": "Busn",
+            "cityName": "Luxembourg",
+            "countryCode": "LUX",
+            "postalCode": "L-1955"
+          }
+        ],
+        "emailContactDetails": [
+          {
+            "emailAddress": "bob.doe@x.com"
+          }
+        ],
+        "employmentSummary": {
+          "createAccessDate": "2000-03-01",
+          "createAccessTime": "00:00:00.000000+01:00",
+          "mostRecentHireDate": "2000-03-01"
+        },
+        "jobDetails": [
+          {
+            "employmentJobProfileDetails": {
+              "jobProfileIdentifier": "R00243NCT"
+            },
+            "jobGovernanceRoleDetails": {
+              "functionalManagerWorkerIdentifier": "1200542"
+            },
+            "mostRecentPrimaryJobFlag": true,
+            "organizationDetails": {
+              "companyOrganizationIdentifier": "0814"
+            },
+            "workerStatus": "Active",
+            "workerType": "A"
+          }
+        ],
+        "nameDetails": [
+          {
+            "firstName": "bob",
+            "lastName": "doe",
+            "nameType": "Preferred"
+          },
+          {
+            "firstName": "bob",
+            "lastName": "doe",
+            "nameType": "Primary"
+          }
+        ],
+        "phoneContactDetails": [
+          {
+            "phoneNumber": "6506 985359",
+            "phoneUsageType": "HomeNonPrimary"
+          },
+          {
+            "phoneNumber": "175 5948201",
+            "phoneUsageType": "Home"
+          }
+        ],
+        "workerIdentifier": "1200068"
+      }
+    ]
+  }
+}
